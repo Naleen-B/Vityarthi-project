@@ -1,0 +1,38 @@
+[
+  {
+    "item_id": "L001",
+    "item_type": "lost",
+    "name": "Boat Wireless Earbuds",
+    "category": "electronics",
+    "color": "black",
+    "description": "black wireless earbuds in charging case",
+    "location": "library",
+    "date": "2026-09-20",
+    "contact": "student@example.com",
+    "status": "open"
+  },
+  {
+    "item_id": "F001",
+    "item_type": "found",
+    "name": "Bluetooth Earphones",
+    "category": "electronics",
+    "color": "black",
+    "description": "black wireless earphones in small charging case",
+    "location": "library entrance",
+    "date": "2026-09-20",
+    "contact": "staff@example.com",
+    "status": "open"
+  },
+  {
+    "item_id": "442A81F6",
+    "item_type": "lost",
+    "name": "Black watch",
+    "category": "watch",
+    "color": "black",
+    "description": "black watch found in AB2",
+    "location": "AB 2",
+    "date": "2026-09-26",
+    "contact": "9807665441",
+    "status": "open"
+  }
+]
