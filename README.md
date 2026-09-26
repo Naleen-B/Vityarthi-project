@@ -29,7 +29,7 @@ No external packages are required.
 ## 4. Installation
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/Naleen-B/Vityarthi-project>
 cd CampusFind
 python main.py
 ```
