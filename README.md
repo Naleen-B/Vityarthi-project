@@ -42,6 +42,10 @@ Run:
 python -m unittest -v
 ```
 
+<img width="1400" height="760" alt="04_statistics" src="https://github.com/user-attachments/assets/33653adb-8284-4ebc-8acf-d564536bbedd" />
+<img width="1400" height="760" alt="03_smart_matching" src="https://github.com/user-attachments/assets/1e28df87-f3a5-4606-88e5-26f98b7c183b" />
+<img width="1400" height="760" alt="02_registration" src="https://github.com/user-attachments/assets/d5d5d8cb-c6e8-4bfe-864d-7aef9658f485" />
+<img width="1400" height="760" alt="01_main_menu" src="https://github.com/user-attachments/assets/a39fb848-6334-4962-8fdb-c8acb7458a12" />
 
 
 
