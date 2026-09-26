@@ -4,12 +4,12 @@
 
 **Project:** CampusFind — Smart Lost & Found Matching System  
 **Language:** Python  
-**Project Type:** Academic Mini Project  
-**Student:** ____________________  
-**Registration Number:** ____________________  
-**Course:** ____________________  
-**Faculty:** ____________________  
-**Date:** ____________________
+**Project Type:** Academic VITyarthi project  
+**Student:** Naleen Brahmin  
+**Registration Number:** 26BCY10084 
+**Course:** Python Essentials  
+**Faculty:** Mohd Rafi Lone  
+**Date:** 26/09/2026
 
 ## 2. Introduction
 
