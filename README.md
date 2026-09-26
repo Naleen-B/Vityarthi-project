@@ -29,8 +29,8 @@ No external packages are required.
 ## 4. Installation
 
 ```bash
-git clone <your-repository-url>
-cd CampusFind
+git clone https://github.com/Naleen-B/Vityarthi-project.git
+cd Vityarthi-project
 python main.py
 ```
 
